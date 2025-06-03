@@ -1,0 +1,21 @@
+HISTORIAL DE TRADUCCIONES LSC
+============================
+
+Fecha de exportación: 2025-06-02 17:21:23
+
+[17:18:22] paz (entrenado 76.7%)
+[17:18:33] SORPRESA (IA)
+[17:18:36] SORPRESA (IA)
+[17:18:45] CARA (IA)
+[17:18:48] PENSAR (IA)
+[17:18:52] LLORAR (IA)
+[17:19:04] Pistola (IA)
+[17:19:45] APPLAUSE (IA)
+[17:19:56] BESO (IA)
+[17:20:07] ok (entrenado 92.0%)
+[17:20:14] W (IA)
+[17:20:22] bien (entrenado 73.0%)
+[17:20:36] UNO (IA)
+[17:20:45] paz (entrenado 69.8%)
+[17:21:02] ok (entrenado 35.0%)
+[17:21:13] NO_GESTURE_ (IA)
